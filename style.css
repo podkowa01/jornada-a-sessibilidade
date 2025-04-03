@@ -1,4 +1,4 @@
-* RESET E ESTILOS GERAIS */
+/* RESET E ESTILOS GERAIS */
 * {
     margin: 0;
     padding: 0;
@@ -256,3 +256,5 @@ body.alto-contraste .adotar-btn {
    
     .gato-card {
         margin-bottom: 20px;
+    }
+}
